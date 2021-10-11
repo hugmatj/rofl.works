@@ -1,21 +1,20 @@
-# [<domainnamehere>](git@github.com:hugmatj/<domainnamehere>.git)
+# domainnamehere
 
+> Repo: git@github.com:hugmatj/domainnamehere.git
 
-###### tags: #<domainnamehere> #KISS
+###### tags: #domainnamehere #KISS
 
----
-
+[![hackmd-github-sync-badge](https://hackmd.io/i_w2gUwmROSw7X56aHpYtg/badge)](https://hackmd.io/i_w2gUwmROSw7X56aHpYtg)
 
 ## Where to find it?
 
-## Whats the point?
+## What's the point?
 
-## Whats the value?
+## What's the value?
 
 ## Who's going to do it?
 
 ## How to accomplish it?
-
 
 >### *Github Assets*
 >>
